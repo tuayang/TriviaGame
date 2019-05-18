@@ -10,5 +10,4 @@ Think you know it all? Let's test your street smarts!
 
 * Once the player clicks on "Finished", the players stats will be shown on a new page. 
 
-
-
+View Demo at: [https://tuayang.github.io/TriviaGame/](https://tuayang.github.io/TriviaGame/)
