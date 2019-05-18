@@ -1,0 +1,37 @@
+html, body {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: wheat;
+    width: 1600px;
+    margin: auto;
+}
+
+.container-block {
+    width: 1600px;
+    background-color: white;
+    margin: auto;
+    padding: 50px;
+}
+
+#timer {
+   color: red;
+    margin-left: 50px;;
+}
+
+#questions-box {
+   margin-left: 50px;
+}
+
+  #end-page {
+    display: none;
+  }
+  
+  #correct-answers {
+    
+    color: green;
+  }
+  #incorrect-answers {
+    color: red;
+  }
